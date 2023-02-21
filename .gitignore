@@ -40,7 +40,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-django_actions/static
+static/*
 
 
 # PyInstaller
